@@ -1,0 +1,24 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+body,html{
+    background-image: url('asset/halloooo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+}
+
+body>img{
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+    height: auto;
+}
+
+img{
+    text-align: center;
+}
